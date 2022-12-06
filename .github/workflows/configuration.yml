@@ -38,6 +38,6 @@ jobs:
         # Remote user
         REMOTE_USER: 'root'
         # Source directory
-        SOURCE: 'dist'
+        SOURCE: 'dist/'
         # Target directory
         TARGET: /www/wwwroot/xsd666.top/ci_cd
